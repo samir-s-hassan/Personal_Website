@@ -5,7 +5,7 @@ const Age = () => {
 
   const tick = () => {
     const divisor = 1000 * 60 * 60 * 24 * 365.2421897; // ms in an average year
-    const birthTime = new Date('1990-02-05T09:24:00');
+    const birthTime = new Date('2003-08-24T00:00:00');
     setAge(((Date.now() - birthTime) / divisor).toFixed(11));
   };
 
@@ -27,13 +27,18 @@ const data = [
   {
     key: 'countries',
     label: 'Countries visited',
-    value: 53,
-    link: 'https://www.google.com/maps/d/embed?mid=1iBBTscqateQ93pWFVfHCUZXoDu8&z=2',
+    value: 'TBD',
+    link: 'https://support.google.com/mymaps/answer/3024454?hl=en&amp%3Bref_topic=3188329',
   },
   {
     key: 'location',
-    label: 'Current city',
+    label: 'Current city and my hometown 🏙️',
     value: 'New York, NY',
+  },
+  {
+    key: 'location2',
+    label: 'Go to school in',
+    value: 'Bethlehem, PA',
   },
 ];
 
