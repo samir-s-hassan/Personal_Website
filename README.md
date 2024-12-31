@@ -1,6 +1,6 @@
 # Personal Website
 
-Welcome to my personal website! I adapted this project from Michael D'Angelo's own personal site available [here](https://github.com/mldangelo/personal-site/tree/main).
+Welcome to my personal website! I adapted this project from this template available [here](https://github.com/mldangelo/personal-site/tree/main).
 
 There are so many personal website templates out there and it's hard to pick one; Motivation is important here. I was motivated to make a personal website because
 
@@ -15,7 +15,7 @@ Therefore, I approached this project with the goal of not primarily demonstratin
 
 ## How to run
 
-- Check out [Michael's README](https://github.com/mldangelo/personal-site/blob/main/README.md) on how to run and deploy
+- Check out [this README](https://github.com/mldangelo/personal-site/blob/main/README.md) on how to run and deploy
 
 ## Notes
 
