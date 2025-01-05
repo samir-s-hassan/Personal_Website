@@ -33,7 +33,7 @@ Therefore, I approached this project with the goal of not primarily demonstratin
 
 ## License
 
-This project is based on [Michael D'Angelo's personal site](https://github.com/mldangelo/personal-site/tree/main), which is licensed under the MIT License.
+This project is based on [this](https://github.com/mldangelo/personal-site/tree/main), which is licensed under the MIT License.
 
 Modifications made by Samir Hassan in 2024 and 2025 are licensed under the Apache License.  
 
