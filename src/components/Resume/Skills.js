@@ -66,8 +66,7 @@ const Skills = ({ skills, categories }) => {
       <div className="title">
         <h3>Skills</h3>
         <p>
-          Note: I think these sections are silly, but everyone seems to have
-          one. Here is a *mostly* honest overview of my skills.
+          Note: I find it hard to rate one's own skills and I feel that it is all relative. So here's a *somewhat* honest overview of my skills.
         </p>
       </div>
       <div className="skill-button-container">{getButtons()}</div>

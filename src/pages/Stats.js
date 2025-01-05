@@ -9,7 +9,7 @@ import Site from '../components/Stats/Site';
 const Stats = () => (
   <Main
     title="Stats"
-    description="Some statistics about Michael D'Angelo and mldangelo.com"
+    description="Some statistics about Samir Hassan and mldangelo.com"
   >
     <article className="post" id="stats">
       <header>
@@ -20,7 +20,7 @@ const Stats = () => (
         </div>
       </header>
       <Personal />
-      <Site />
+      {/* <Site /> */}
     </article>
   </Main>
 );
