@@ -9,7 +9,7 @@ There are so many personal website templates out there and it's hard to pick one
 3) I want to have a unique, central hub for my online presence that isn't just a social media page AND I want to be able to customize it as I wish
 4) I want to share my personal goals and hobbies
 5) I want to share blog posts, tutorials, insights, opinions, ideas, etc as I please
-6) Lots of developers build their website from scratch to display their skills. I, however, would rather adapt one and add my own touches as I develop and maintain it.
+6) Lots of developers build their website from scratch to display their skills. However, I would rather adapt one and add my own touches as I develop and maintain it.
 
 Therefore, I approached this project with the goal of not primarily demonstrating my front-end skills, but rather showcasing my ability to adapt, enhance, and maintain an existing project.
 
